@@ -2,6 +2,8 @@
 
 This repository contains a partial implementation of FDTad, a lightweight federated distillation framework designed for time-series anomaly detection in distributed environments. The work is part of an ongoing research project.
 
+This work is supported by a confidential research project that is currently ongoing. Due to confidentiality requirements, we cannot provide the complete codebase at this time. However, we are committed to releasing the code once the project concludes. In the meantime, we have made some key modules available to facilitate understanding of our implementation.
+
 ## Overview
 
 FDTad addresses key challenges in federated learning, including data heterogeneity, privacy constraints, and high communication overhead. The framework combines several innovative components:
