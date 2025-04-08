@@ -23,8 +23,8 @@ FDTad addresses key challenges in federated learning, including data heterogenei
 
 This repository contains partial module implementations for the FDTad framework:
 
-- `dcst_model.py`: Implementation of the Dual-channel Single-head Transformer.
-- `federated_distillation.py`: Implementation of the federated distillation mechanism with AADis.
+- `DcST.py`: Implementation of the Dual-channel Single-head Transformer.
+- `AADis.py`: Implementation of the federated distillation mechanism with AADis.
 
 ## Requirements
 
